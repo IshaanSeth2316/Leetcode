@@ -20,12 +20,11 @@ public:
         if(head==NULL){
             return NULL;
         }
-        unordered_map<Node*,Node*> mp;
+        unordered_map<Node*,Node*>mp;
         Node* newHead=new Node(head->val);
         Node* oldTemp=head->next;
         Node* newTemp=newHead;
         mp[head]=newHead;
-
         while(oldTemp!=NULL){
             Node* copyNode=new Node(oldTemp->val);
             mp[oldTemp]=copyNode;
