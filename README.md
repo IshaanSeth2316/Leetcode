@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanSeth2316/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/IshaanSeth2316/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaanSeth2316/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshaanSeth2316/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
