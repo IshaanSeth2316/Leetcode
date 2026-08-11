@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/IshaanSeth2316/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaanSeth2316/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/IshaanSeth2316/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/IshaanSeth2316/Leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
