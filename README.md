@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/IshaanSeth2316/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IshaanSeth2316/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/IshaanSeth2316/Leetcode/tree/master/0051-n-queens) |
 | [0496-next-greater-element-i](https://github.com/IshaanSeth2316/Leetcode/tree/master/0496-next-greater-element-i) |
