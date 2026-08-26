@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaanSeth2316/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/IshaanSeth2316/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/IshaanSeth2316/Leetcode/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/IshaanSeth2316/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/IshaanSeth2316/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/IshaanSeth2316/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
