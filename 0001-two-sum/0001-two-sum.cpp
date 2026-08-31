@@ -10,7 +10,7 @@ public:
                 ans.push_back(i);
                 ans.push_back(mp[sec]);
                 break;
-            }    
+            }
             mp[first]=i;
         }
         return ans;
