@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/IshaanSeth2316/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaanSeth2316/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/IshaanSeth2316/Leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/IshaanSeth2316/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IshaanSeth2316/Leetcode/tree/master/0283-move-zeroes) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/IshaanSeth2316/Leetcode/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
