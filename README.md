@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/IshaanSeth2316/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/IshaanSeth2316/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/IshaanSeth2316/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IshaanSeth2316/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/IshaanSeth2316/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/IshaanSeth2316/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/IshaanSeth2316/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
