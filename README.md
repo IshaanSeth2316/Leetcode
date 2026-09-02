@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/IshaanSeth2316/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/IshaanSeth2316/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/IshaanSeth2316/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/IshaanSeth2316/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IshaanSeth2316/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/IshaanSeth2316/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/IshaanSeth2316/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IshaanSeth2316/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IshaanSeth2316/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IshaanSeth2316/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/IshaanSeth2316/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
@@ -142,4 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IshaanSeth2316/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshaanSeth2316/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
