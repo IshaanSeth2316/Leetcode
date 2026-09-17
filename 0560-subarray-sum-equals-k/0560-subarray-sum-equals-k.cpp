@@ -10,11 +10,13 @@ public:
         }
         unordered_map<int,int> mp;
         for(int j=0;j<n;j++){
-            if(prefixSum[j]==k) count++;
+            if(prefixSum[j]==k){
+                count++;
+            }
             int val=prefixSum[j]-k;
             if(mp.find(val)!=mp.end()){
                 count+=mp[val];
-            }  
+            }
             mp[prefixSum[j]]++;
         }
         return count;
