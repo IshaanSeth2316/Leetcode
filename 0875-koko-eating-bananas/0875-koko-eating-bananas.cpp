@@ -4,7 +4,7 @@ public:
         int n=piles.size();
         long long hours=0;
         for(int i=0;i<n;i++){
-            hours+=ceil((double)(piles[i])/(double)(k));
+            hours+=ceil((double)(piles[i])/(double)(k)); 
         }
         if(hours>h) return false;
         return true;
